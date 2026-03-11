@@ -1,0 +1,71 @@
+{"data":{
+    "result": [
+        {
+            "section": "首页",
+            "subsection": "论文题目",
+            "content": "基于《金匮要略》的多粒度知识表示模型构建研究",
+            "para_index": 0
+        },
+        {
+            "section": "首页",
+            "subsection": "作者姓名",
+            "content": "王世文  赵泽儒*  邢建斌",
+            "para_index": 1
+        },
+        {
+            "section": "首页",
+            "subsection": "作者单位",
+            "content": "（天津师范大学 管理学院，天津  300387）",
+            "para_index": 2
+        },
+        {
+            "section": "首页",
+            "subsection": "摘要",
+            "content": "摘要：[目的] 本文基于多粒度层级划分提出多粒度的知识表示框架与模型，以提升中医古籍知识挖掘与利用效率。[方法] 本文首先通过对《金匮要略》的分析与归纳，提出从知识内容角度出发的多粒度层级划分结构。然后，据此构建出中医古籍多粒度知识表示框架，并给出多粒度知识表示模型，并以《金匮要略》和《温病条辨》中的知识内容进行了模型展示与验证。[结果] 对多粒度知识表示模型的应用，展示出模型的普适性和科学性，体现出模型在中医古籍领域中的可用性和有效性，有效支持中医古籍知识表示与组织。[结论] 多粒度知识表示模型为中医古籍知识挖掘与组织提供了可行方案，具有理论与实践价值。",
+            "para_index": 3
+        },
+        {
+            "section": "首页",
+            "subsection": "关键词",
+            "content": "关键词：中医古籍；知识表示；多粒度；知识元；知识表示模型",
+            "para_index": 4
+        },
+        {
+            "section": "首页",
+            "subsection": "中图分类号",
+            "content": "分类号：G254",
+            "para_index": 5
+        },
+        {
+            "section": "首页",
+            "subsection": "英文题目",
+            "content": "Construction of a Multi-Granularity Knowledge Representation Model Based on Synopsis of Golden Chamber",
+            "para_index": 7
+        },
+        {
+            "section": "首页",
+            "subsection": "英文作者姓名",
+            "content": "WANG Shi-wen  ZHAO Ze-ru*",
+            "para_index": 8
+        },
+        {
+            "section": "首页",
+            "subsection": "英文作者单位",
+            "content": "(College of Management‌, Tianjin Normal University, Tianjin, 300387)",
+            "para_index": 9
+        },
+        {
+            "section": "首页",
+            "subsection": "英文摘要",
+            "content": "Abstract：[Objective] This paper proposes a multi-granularity knowledge representation framework and model based on multi-granularity hierarchical division to enhance the efficiency of knowledge mining and utilization in ancient Chinese medical literature.[Methods] This article first proposes a multi granularity hierarchical structure from the perspective of knowledge content by analyzing and summarizing the \"quot;Synopsis of the Golden Chamber\"quot;. Then, based on this, a multi granularity knowledge representation framework for traditional Chinese medicine ancient books was constructed, and a multi granularity knowledge representation model was proposed. The model was demonstrated and validated using the knowledge content from \"quot;Synopsis of Golden Chamber\"quot; and \"quot;Wenbing Tiaobian\"quot;.[Results] The application of multi granularity knowledge representation models demonstrates the universality and scientificity of the models, reflecting their usability and effectiveness in the field of traditional Chinese medicine ancient books, and effectively supporting the representation and organization of traditional Chinese medicine ancient book knowledge.[Conclusions] The multi-granularity knowledge representation model provides a feasible solution for knowledge mining and organization in ancient Chinese medical literature, with both theoretical and practical significance.",
+            "para_index": 10
+        },
+        {
+            "section": "首页",
+            "subsection": "英文关键词",
+            "content": "Keywords： TCM ancient literature; knowledge representation; multi-granularity; knowledge element; Description model of knowledge",
+            "para_index": 11
+        }
+    ]
+}
+}
